@@ -6,4 +6,4 @@ const connectToMongo = ()=>{
     })
 }
 
-module.exports = connectToMongo;
+module.exports = connectToMongo; 
