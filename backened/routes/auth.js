@@ -109,7 +109,7 @@ router.post('/getuser', fetchuser ,async (req,res)=>{
     }
 })
 module.exports = router
-
+;
 
 // // Create a User using: POST "/api/auth/createuser". No login required
 // router.post('/createuser', [
